@@ -1,0 +1,22 @@
+h1 {
+  background-color: #e3b9b8;
+  text-align: center;
+  font-family:helvetica;
+  border-style: double;
+  }
+
+  div {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  }
+
+  div1{
+    border-style:solid;
+    padding: 50px 50px 50px 50px
+  }
+
+body {
+  background-color: #f7cac9;
+  border-style: dashed;
+  padding: 50px 50px 50px 50px;
+}
