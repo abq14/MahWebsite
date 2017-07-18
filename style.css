@@ -1,3 +1,4 @@
+/*Header Formatting*/
 h1 {
   background-color: #e3b9b8;
   text-align: center;
@@ -5,25 +6,34 @@ h1 {
   border-style: double;
   letter-spacing: 20px;
   }
-
-  h2{
-    text-align:center;
-  }
-
-hr{
-
-}
-
-  div {
+div {
   margin-top: 100px;
   margin-bottom: 100px;
   }
+h2{
+    text-align:center;
+  }
 
-  div1{
+/*Link Formatting*/
+a:link{
+  color: #008080;
+}
+a:visited{
+  color: #9c353a;
+}
+a:active{
+  color: #71d6fd;
+}
+a:hover{
+  color: #198c8c
+}
+
+
+div1{
     border-style:solid;
     margin: 50px 50px 50px 50px;
     padding: 20px 20px 20px;
-  }
+}
 
 body {
   background-color: #f7cac9;
@@ -34,4 +44,9 @@ body {
 
 table{
   border: 1px solid black;
+  text-align: left;
+  padding: 20 px;
+}
+tr{
+  height: 50px;
 }
